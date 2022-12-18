@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-# author: Arne Preuß
+# author: sl0wl1
 # github: sl0wl1
-# email: arne.preuss@posteo.de
+# gitlab: sl0wl1
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 import exifread
