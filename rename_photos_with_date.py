@@ -9,6 +9,7 @@
 import exifread
 import os
 import time
+import utils
 
 # C:\\Users\\arne_\\OneDrive\\Python_projects\\Automate\\safety
 
